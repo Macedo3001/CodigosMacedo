@@ -12,7 +12,7 @@ namespace ExemplosFundamentos
             Console.WriteLine("Aprovado");
         }
         else{
-            Console.WriteLine("Reprovado passou");
+            Console.WriteLine("Reprovado");
         }
         }
     }
